@@ -1,0 +1,6 @@
+y = *ip;
+
+*ip = 0
+ip = &z[0]
+
+this is the best 
